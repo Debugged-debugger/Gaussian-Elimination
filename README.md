@@ -1,10 +1,10 @@
-#📘 Linear System Solver
+📘 Linear System Solver
 
 A lightweight C++ project for solving systems of linear equations using numerical and algebraic methods.
 This project aims to provide both an educational implementation (step-by-step Gaussian elimination) and a high-performance solver (using libraries like Eigen).
 Later, the project will expand with a Python implementation for symbolic algebra and web integration.
 
-#🚀 Features
+🚀 Features
 
 Solve linear systems of equations 
 
@@ -42,7 +42,7 @@ SymPy (symbolic math, step-by-step solving)
 
 Flask / FastAPI (for API support)
 
-#✅ Roadmap
+✅ Roadmap
 
  Implement Gaussian elimination (C++)
 
@@ -55,11 +55,11 @@ Flask / FastAPI (for API support)
  Build API with FastAPI (Python)
 
  Create Web UI for solving equations
- #🤝 Contributing
+ 🤝 Contributing
 
 Contributions are welcome! Feel free to fork, open issues, or submit pull requests.
 
-#📜 License
+📜 License
 
 This project is licensed under the MIT License – see the LICENSE
  file for details.
