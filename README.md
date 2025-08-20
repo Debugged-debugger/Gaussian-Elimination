@@ -6,12 +6,7 @@ Later, the project will expand with a Python implementation for symbolic algebra
 
 #🚀 Features
 
-Solve linear systems of equations (
-𝐴
-𝑥
-=
-𝑏
-Ax=b)
+Solve linear systems of equations 
 
 Detect cases:
 
